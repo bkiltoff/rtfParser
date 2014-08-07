@@ -26,3 +26,6 @@ In designing this program, it is therefore paramount that
 
 -- 1b) Staff must be able to easily reorganize location options, either individually or in consolidated form
 
+- 2) The program must be able to independently determine the shelving location of each item based on the information in the RTF file, as the Excel macro does for each branch.
+-- 2a) the Excel macro for each branch currently makes evaluations differently - some collections are subsets of other collections, whereas at larger branches they may be broken out
+
